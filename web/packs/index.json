@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "CourageDogstickers.json"
+  ],
+  "homeserver_url": "https://matrix.magnuserver.com"
+}
